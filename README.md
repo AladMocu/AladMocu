@@ -2,7 +2,7 @@
 ## I'm a Gamer, Engineer and Developer!!
 - 🌱 I’m currently learning nest
 - 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact: I love to see anime ( yes I'm a weeb )
+- ⚡ Fun fact: I love to see anime
 ### Languages and Tools:
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
